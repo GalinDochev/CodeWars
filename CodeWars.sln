@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complementary DNA", "Comple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{55F70741-E394-4C07-A280-3240D259864F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoLikesIt", "WhoLikesIt\WhoLikesIt.csproj", "{F2112173-B71A-440C-8EFC-E6FA083F506F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{55F70741-E394-4C07-A280-3240D259864F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55F70741-E394-4C07-A280-3240D259864F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55F70741-E394-4C07-A280-3240D259864F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2112173-B71A-440C-8EFC-E6FA083F506F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2112173-B71A-440C-8EFC-E6FA083F506F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2112173-B71A-440C-8EFC-E6FA083F506F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2112173-B71A-440C-8EFC-E6FA083F506F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
